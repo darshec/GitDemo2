@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47" started-at="2020-04-09T14:31:26Z" finished-at="2020-04-09T14:31:26Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47" started-at="2020-04-09T14:31:26Z" finished-at="2020-04-09T14:31:26Z">
+      <class name="darshan.mycompany.app.RestAPITest">
+        <test-method status="PASS" signature="postJira()[pri:0, instance:darshan.mycompany.app.RestAPITest@17c74e5]" name="postJira" duration-ms="0" started-at="2020-04-09T20:01:26Z" finished-at="2020-04-09T20:01:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:darshan.mycompany.app.RestAPITest@17c74e5]" name="deleteTwitter" duration-ms="0" started-at="2020-04-09T20:01:26Z" finished-at="2020-04-09T20:01:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- darshan.mycompany.app.RestAPITest -->
+      <class name="darshan.mycompany.app.SeleniumTest">
+        <test-method status="PASS" signature="browserautomation()[pri:0, instance:darshan.mycompany.app.SeleniumTest@109b8da]" name="browserautomation" duration-ms="16" started-at="2020-04-09T20:01:26Z" finished-at="2020-04-09T20:01:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserautomation -->
+        <test-method status="PASS" signature="elementuis()[pri:0, instance:darshan.mycompany.app.SeleniumTest@109b8da]" name="elementuis" duration-ms="0" started-at="2020-04-09T20:01:26Z" finished-at="2020-04-09T20:01:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementuis -->
+      </class> <!-- darshan.mycompany.app.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
